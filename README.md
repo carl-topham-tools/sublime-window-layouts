@@ -17,3 +17,13 @@ This usually can be found here:
 If Main.sublimemenu already exists then you will need to manually add in the extra layouts or risk losing any other custom layouts.
 
 There should be no need to restart Sublime. The new views should appeat in the View > Layouts menu.
+
+
+
+Todo
+----
+
+- Make this installable be the packet manager or use some kind of script to do it!
+- more view options
+- ????
+- Profit
