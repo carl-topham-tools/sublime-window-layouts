@@ -10,7 +10,7 @@ Alternative window layouts for sublime2 +
 
 Place the file in the user packages folder ( Packages > User folder )
 
-This usually can be found here:
+This usually can be found here (You may need to see hidden files to see the folder):
 
     /Users/***user name***/Library/Application Support/Sublime Text #/Packages/user
 
