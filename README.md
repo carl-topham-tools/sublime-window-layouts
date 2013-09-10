@@ -8,9 +8,11 @@ Alternative window layouts for sublime2 +
 - 1 top, 2 bottom (left & right)
 - 2 top (left and right), 1 bottom 
 
-Place the file in the user packages folder ( Packages > User folder )
+Place the file in the user packages folder:
 
-This usually can be found here (You may need to see hidden files to see the folder):
+Go to Preferences -> Browse Packages... and then find the user folder
+
+This usually can be found here if teh above doesn't work (You may need to see hidden files to see the folder):
 
     /Users/***user name***/Library/Application Support/Sublime Text #/Packages/user
 
